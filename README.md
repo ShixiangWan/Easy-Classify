@@ -51,7 +51,7 @@ Easy-Classify是一个基于python的sklearn包，自动生成二分类Excel实�
  
 ## 使用命令
 
-####1. easy_classify.py专用于生成excel实验报告：
+#### 1. easy_classify.py专用于生成excel实验报告：
 
 * 必选参数：
  * `-i`：输入的arff或libsvm格式文件，支持混输。如：`-i train.libsvm,train2.arff`，注意文件之间用英文`,`连接；
