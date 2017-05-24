@@ -36,7 +36,7 @@ Easy-Classify是一个基于python的sklearn包，自动生成二分类Excel实�
   pip intall xlwt
 ```
 
-##输入输出
+## 输入输出
 
 * 输入：包含全部正反例的libsvm或arff格式文件，支持多文件混合输入。文件正反例标签为{0,1}，arff格式为weka软件默认格式，libsvm格式如：
 ```ssh
