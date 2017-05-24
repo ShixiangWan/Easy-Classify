@@ -71,7 +71,7 @@ Easy-Classify是一个基于python的sklearn包，自动生成二分类Excel实�
 ```ssh
   python easy_classify.py -h
 ```
-####2. easy_roc.py专用于生成绘制ROC曲线图需要的数据（只支持交叉验证）：
+#### 2. easy_roc.py专用于生成绘制ROC曲线图需要的数据（只支持交叉验证）：
 * 交叉验证：
 ```ssh
   python easy_roc.py -i {input_file.libsvm} -c {int: cross validate folds}
