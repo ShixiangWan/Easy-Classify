@@ -84,7 +84,7 @@ Easy-Classify是一个基于python的sklearn包，自动生成二分类Excel实�
   python easy_roc.py -h
 ```
 
-##升级日志
+## 升级日志
  * 2016-08-08，version 0.20:
    * 完成基本功能框架，集成主要分类器
    * 自动生成测试报告
