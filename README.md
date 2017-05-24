@@ -20,7 +20,7 @@ Easy-Classify是一个基于python的sklearn包，自动生成二分类Excel实�
 * Neural Network
 * ......
 
-##运行环境
+## 运行环境
 
 * python 2.7及其基础科学计算包numpy、scipy、pandas；
 * python的scikit-learn包用于跑分类器：
