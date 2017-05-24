@@ -49,7 +49,7 @@ Easy-Classify是一个基于python的sklearn包，自动生成二分类Excel实�
   * easy_classify.py: 输出Excel实验表格，如results.xls文件所示
   * easy_roc.py: 输出pdf格式的roc曲线图数据表，如ROC.xls文件所示
  
-##使用命令
+## 使用命令
 
 ####1. easy_classify.py专用于生成excel实验报告：
 
