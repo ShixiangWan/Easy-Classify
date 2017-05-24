@@ -1,7 +1,7 @@
 # Easy-Classify
 version 0.60
 
-##Easy-Classify是什么?
+## Easy-Classify是什么?
 
 Easy-Classify是一个基于python的sklearn包，自动生成二分类Excel实验报告和ROC值的小脚本，是二分类集成分类器的良好解决方案。分类器目前集成：
 
